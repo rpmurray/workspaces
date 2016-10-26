@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: paulscode.sound.libraries:LibraryLWJGLOpenAL:1.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/paulscode/sound/libraries/LibraryLWJGLOpenAL/1.0/LibraryLWJGLOpenAL-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/paulscode/sound/libraries/LibraryLWJGLOpenAL/1.0/LibraryLWJGLOpenAL-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/paulscode/sound/libraries/LibraryLWJGLOpenAL/1.0/LibraryLWJGLOpenAL-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: paulscode.sound.codecs:CodecJOgg:1.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/paulscode/sound/codecs/CodecJOgg/1.0/CodecJOgg-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/paulscode/sound/codecs/CodecJOgg/1.0/CodecJOgg-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/paulscode/sound/codecs/CodecJOgg/1.0/CodecJOgg-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
