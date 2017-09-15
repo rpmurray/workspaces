@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="www.masterfroggames.com" stopOnFirstError="true" createEmptyFolders="true" exclude=".svn;.cvs;.idea;.DS_Store;.git*;.hg" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="www.livingnatural.life">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/var/www/livingnatural" local="$PROJECT_DIR$/../living-natural-site" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="www.masterfroggames.com">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/var/www/masterfroggames" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/../masterfrog-info-site/README" />
+            <excludedPath local="true" path="$PROJECT_DIR$/../masterfrog-info-site/.gitignore" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
