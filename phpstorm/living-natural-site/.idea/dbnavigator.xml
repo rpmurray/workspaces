@@ -24,7 +24,7 @@
     <autoscroll-from-editor value="true" />
     <show-object-properties value="true" />
     <loaded-nodes>
-      <connection connection-id="a3320bbe-fcc7-4667-8146-fc0a496e096d">
+      <connection connection-id="e0ba1920-2e90-458d-9c35-3ecbf4de0257">
         <schema name="livingnatural" object-types="table, view" />
       </connection>
     </loaded-nodes>
@@ -38,6 +38,11 @@ select * from calendars;
 select * from calendar_events;]]></console>
     </connection>
     <connection id="e0ba1920-2e90-458d-9c35-3ecbf4de0257">
+      <console name="frog01.prod" type="STANDARD"><![CDATA[select * from fos_user;
+
+select * from calendars;
+
+select * from calendar_events;]]></console>
       <console name="wordpress@frog01" type="STANDARD" />
     </connection>
   </component>
